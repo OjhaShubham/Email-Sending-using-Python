@@ -39,7 +39,7 @@ message.Body = 'Wishing you a very happy birthday!!'
 Other settings
 You can also set the SentOnBehalfOfName property if you have permission to send on behalf of another party.
 
-message.SentOnBehalfOfName = 'david.mitchell@email.com'
+message.SentOnBehalfOfName = 'shubhamojha808@gmail.com'
 Sending and Saving
 When you are ready to save or send, you can use the Save method to save the message to the drafts folder. The Send method will send the current mail item.
 
