@@ -30,9 +30,9 @@ There are two options for the main text of the email:
 
 Body is the property for a plain-text formatted email body
 HTMLBody is the property for an html formatted email body
-message.To = 'bob.mortimer@email.com'
-message.CC = 'james.acaster@email.com'
-message.BCC = 'richard.ayoade@email.com'
+message.To = 'shubhamojha808@gmail.com'
+message.CC = 'shubhamojha808@gmail.com'
+message.BCC = 'shubhamojha808@gmail.com'
 
 message.Subject = 'Happy Birthday"'
 message.Body = 'Wishing you a very happy birthday!!'
