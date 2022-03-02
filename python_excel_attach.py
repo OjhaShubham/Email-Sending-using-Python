@@ -6,9 +6,9 @@ message=outlook.CreateItem(0)
 
 message.display()
 
-message.To='shubham-geetashankar.ojha@capgemini.com'
+message.To='shubham@gmail.com'
 
-message.CC='shubham-geetashankar.ojha@capgemini.com'
+message.CC='shubham@gmail.com'
 
 message.Subject='pywin32 Testing'
 
